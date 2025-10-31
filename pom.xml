@@ -610,7 +610,7 @@
                             </platforms>
                         </from>
                         <to>
-                            <image>mtnavarro/IntegracionContinuaISA:latest</image>
+                            <image>mtnavarro/integracion-continua:latest</image>
                             <tags>
                                 <tag>${project.version}</tag>
                                 <tag>latest</tag>
